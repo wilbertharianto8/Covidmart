@@ -54,7 +54,7 @@ class Staff implements Staffdata{
 				break;
 			case "s02":
 				System.out.println("\n\nStaff number: "+c02+", ");
-				System.out.println("Welcome "+ 2+" ("+ j02+")");
+				System.out.println("Welcome back "+ 2+" ("+ j02+")");
 				break;
 			default: 
 			assert false : "user is not found";
