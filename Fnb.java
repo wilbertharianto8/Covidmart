@@ -1,6 +1,6 @@
 import java.util.*;
 import java.io.*;
-
+//testingpurpose
 // Fnb = Food and Beverage, personal care, daily
 class Fnb extends Product{				//Inheritance
 	private String expdate;
