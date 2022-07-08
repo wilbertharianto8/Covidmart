@@ -10,4 +10,5 @@ class Personalcare extends Product{
 		return ""+ gcode()+"\t"+ gname()+"\t" + gprice()+"\t"+ gquantity()+"\t"+ desc;
 		//3r3r3
 	}
+	//erhwr
 }
