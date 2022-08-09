@@ -17,5 +17,5 @@ class Fnb extends Product{				//Inheritance
 	public String display(){
 		return ""+ gcode()+"\t"+ gname()+"\t" + gprice()+"\t"+ gquantity()+"\t"+ expdate;
 	}
-	
+	//sda
 }
