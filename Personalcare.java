@@ -5,7 +5,7 @@ class Personalcare extends Product{
 	Personalcare(String a, String b, double c, int d, String desc){
 		super(a,b,c,d); this.desc=desc;
 	}
-	//adadwr
+	//adad
 	public String display(){
 		return ""+ gcode()+"\t"+ gname()+"\t" + gprice()+"\t"+ gquantity()+"\t"+ desc;
 		//3r3r3
