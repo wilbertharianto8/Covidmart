@@ -10,7 +10,7 @@ public class Covidmart{
 	public static void main(String[] args){
 		int a; String sid;
 			
-		//declare classes
+		//declare classess
 		Staff staff= new Staff();
 		
 		Personalcare pc;
